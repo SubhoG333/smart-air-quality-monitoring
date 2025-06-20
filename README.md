@@ -19,9 +19,6 @@ This is an IoT-based project that uses ESP32, MQ135, and DHT22 sensors to monito
 - Sends alert messages to a predefined Telegram chat using a bot.
 - Can be expanded to include mobile dashboards (Blynk, etc.)
 
-## 🖼️ Circuit Diagram
-
-> *(Insert a photo or link to your Fritzing or hand-drawn circuit diagram)*
 
 ## 💻 Code Overview
 
