@@ -45,8 +45,10 @@ The Arduino sketch:
 - WiFiClientSecure
 
 ## 📸 Screenshots
-
-
+https://github.com/SubhoG333/smart-air-quality-monitoring/blob/main/App_Interface.jpg
+https://github.com/SubhoG333/smart-air-quality-monitoring/blob/main/Full_Connections.jpg
+https://github.com/SubhoG333/smart-air-quality-monitoring/blob/main/Full_Setup.jpg
+https://github.com/SubhoG333/smart-air-quality-monitoring/blob/main/Web_interface.jpg
 
 ## 🚀 Future Improvements
 
